@@ -1,5 +1,5 @@
 
-# ✨ Ultimate Todo App - Feature-Rich Task Manager
+# ✨ Ultimate Todo App - Task Manager
 
 A modern, powerful Todo app built with the MERN stack featuring advanced task management, dark mode, real-time sync, and more.
 
